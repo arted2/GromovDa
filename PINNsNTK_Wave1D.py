@@ -5,7 +5,7 @@
 
 
 # Switch to tensorflow 1.x
-get_ipython().run_line_magic('tensorflow_version', '1.x')
+#get_ipython().run_line_magic('tensorflow_version', '1.x')
 
 
 # In[1]:
